@@ -1,0 +1,8 @@
+Flask
+flask-cors
+ultralytics
+opencv-python
+cloudinary
+firebase-admin
+python-dotenv
+supabase
